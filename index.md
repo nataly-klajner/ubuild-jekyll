@@ -75,6 +75,8 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
+- template: simple-header
+  block: header-3
 
+---
 foo bar
